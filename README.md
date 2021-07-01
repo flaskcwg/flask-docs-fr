@@ -151,7 +151,7 @@ if you doesn't finish the translation in ten days.
 
 ### docs/
 
-- [ ] advanced_foreword (reserved)
+- [x] advanced_foreword (reserved) @vlevieux Victor LEVIEUX
 - [ ] appcontext
 - [ ] async-await
 - [ ] becomingbig
@@ -165,12 +165,12 @@ if you doesn't finish the translation in ten days.
 - [ ] errorhandling
 - [ ] extensiondev
 - [ ] extensions
-- [ ] foreword (reserved)
+- [x] foreword (reserved) @vlevieux Victor LEVIEUX
 - [ ] htmlfaq
-- [ ] index (reserved)
-- [ ] installation (reserved)
+- [x] index (reserved) @vlevieux Victor LEVIEUX
+- [x] installation (reserved) @vlevieux Victor LEVIEUX
 - [ ] logging
-- [ ] quickstart (reserved)
+- [x] quickstart (reserved)  @vlevieux Victor LEVIEUX
 - [ ] reqcontext
 - [ ] security
 - [ ] server
@@ -183,18 +183,18 @@ if you doesn't finish the translation in ten days.
 
 ### docs/tutorial/ (reserved)
 
-- [ ] blog
-- [ ] database
-- [ ] deploy
-- [ ] factory
-- [ ] index
-- [ ] install
-- [ ] layout
-- [ ] next
-- [ ] static
-- [ ] templates
-- [ ] tests
-- [ ] views
+- [x] blog @vlevieux Victor LEVIEUX
+- [x] database @vlevieux Victor LEVIEUX
+- [x] deploy @vlevieux Victor LEVIEUX
+- [x] factory @vlevieux Victor LEVIEUX
+- [x] index @vlevieux Victor LEVIEUX
+- [x] install @vlevieux Victor LEVIEUX
+- [x] layout @vlevieux Victor LEVIEUX
+- [x] next @vlevieux Victor LEVIEUX
+- [x] static @vlevieux Victor LEVIEUX
+- [x] templates @vlevieux Victor LEVIEUX
+- [x] tests @vlevieux Victor LEVIEUX
+- [x] views @vlevieux Victor LEVIEUX
 
 
 ### docs/deploying/
