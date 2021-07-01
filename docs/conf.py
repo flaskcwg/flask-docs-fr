@@ -46,7 +46,9 @@ html_context = {
         ProjectLink("Website", "https://palletsprojects.com/p/flask/"),
         ProjectLink("Twitter", "https://twitter.com/PalletsTeam"),
         ProjectLink("Chat", "https://discord.gg/pallets"),
-        ProjectLink("Docs Translation Source", "<UPDATE THIS>"),
+        ProjectLink(
+            "Contribuer à la traduction", "https://github.com/vlevieux/flask-docs-fr"
+        ),
     ]
 }
 html_sidebars = {
@@ -57,7 +59,7 @@ singlehtml_sidebars = {"index": ["project.html", "localtoc.html", "ethicalads.ht
 html_static_path = ["_static"]
 html_favicon = "_static/flask-icon.png"
 html_logo = "_static/flask-icon.png"
-html_title = f"Flask Documentation ({version})"
+html_title = f"Documentation de Flask ({version})"
 html_show_sourcelink = False
 
 # LaTeX ----------------------------------------------------------------

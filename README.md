@@ -10,9 +10,9 @@
 - Clone your fork repository locally (replace `{username}` with your username):
 
 ```
-$ git clone https://github.com/{username}/flask-docs-<UPDATE THIS>
-$ cd flask-docs-<UPDATE THIS>
-$ git remote add upstream https://github.com/<UPDATE THIS>/flask-docs-<UPDATE THIS>
+$ git clone https://github.com/{username}/flask-docs-fr.git
+$ cd flask-docs-fr
+$ git remote add upstream https://github.com/vlevieux/flask-docs-fr
 ```
 
 - Create a virtual environment and install requirements:
@@ -42,7 +42,7 @@ For Windows:
 
 ### Self-Assignment
 
-- Open <https://github.com/<UPDATE THIS>/flask-docs-<UPDATE THIS>/edit/main/README.md>.
+- Open <https://github.com/vlevieux/flask-docs-fr/edit/main/README.md>.
 - Find the "Translation To-do List" section, mark the chapter you want to
 translate in following format:
 
