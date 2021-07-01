@@ -93,7 +93,7 @@ msgid ""
 "and then get an overview with the :doc:`quickstart`."
 msgstr ""
 "Bienvenue sur la documentation de Flask. Commencez par consulter le document "
-":doc:`installation`, puis visualisez un aperçu avec le document :doc:`quickstart`."
+":doc:`installation`, puis obtenez un aperçu avec le document :doc:`quickstart`."
 ```
 
 Please be careful not to break reST notation. Most
