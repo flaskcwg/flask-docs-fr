@@ -61,7 +61,7 @@ You can link the username to your GitHub profile:
 
 ### Recommended Translation software
 
-As explained below, translations are done using .po files. One good editor is 
+As explained below, translations are done using .po files. One good editor is
 [POEdit](https://poedit.net/) (not to be confused with POEditor)
 
 ### Translation
@@ -74,14 +74,14 @@ $ git fetch upstream
 $ git checkout -b your-branch-name upstream/main
 ```
 
-- Translate the `.po` file in the `docs/locales/<LANG>/LC_MESSAGES` directory.
+- Translate the `.po` file in the `docs/locales/fr/LC_MESSAGES` directory.
 
 An example of one such file, from docs/.../index.po, is given below.
 
 ```po
 #: ../../index.rst:4
 msgid "Welcome to Flask"
-msgstr "<FILL HERE BY TARGET LANGUAGE>"
+msgstr "Bienvenue sur Flask"
 ```
 
 Another case, msgid is multi-line text and contains reStructuredText syntax:
@@ -92,8 +92,8 @@ msgid ""
 "Welcome to Flask's documentation. Get started with :doc:`installation` "
 "and then get an overview with the :doc:`quickstart`."
 msgstr ""
-"FILL HERE BY TARGET LANGUAGE FILL HERE BY TARGET LANGUAGE :doc:`installation` "
-"FILL HERE BY TARGET LANGUAGE :doc:`quickstart`."
+"Bienvenue sur la documentation de Flask. Commencez par consulter le document "
+":doc:`installation`, puis visualisez un aperçu avec le document :doc:`quickstart`."
 ```
 
 Please be careful not to break reST notation. Most
@@ -109,7 +109,7 @@ Please be careful not to break reST notation. Most
 - Commit the changes:
 
 ```
-$ git add docs/locales/<LANG>/LC_MESSAGES/example.po README.md
+$ git add docs/locales/fr/LC_MESSAGES/example.po README.md
 $ git commit -m "Translate docs/example"
 ```
 
