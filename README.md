@@ -176,7 +176,7 @@ if you doesn't finish the translation in ten days.
 - [ ] server
 - [ ] shell
 - [ ] signals
-- [ ] templating
+- [x] templating @vlevieux Victor LEVIEUX
 - [ ] testing
 - [ ] views
 
