@@ -162,7 +162,7 @@ if you doesn't finish the translation in ten days.
 - [ ] contributing
 - [ ] debugging
 - [ ] design
-- [ ] errorhandling
+- [x] errorhandling @vlevieux Victor LEVIEUX
 - [ ] extensiondev
 - [ ] extensions
 - [x] foreword (reserved) @vlevieux Victor LEVIEUX
