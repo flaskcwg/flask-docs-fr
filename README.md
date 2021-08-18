@@ -169,7 +169,7 @@ if you doesn't finish the translation in ten days.
 - [ ] htmlfaq
 - [x] index (reserved) @vlevieux Victor LEVIEUX
 - [x] installation (reserved) @vlevieux Victor LEVIEUX
-- [ ] logging
+- [x] logging (reserved) @Mindiell
 - [x] quickstart (reserved)  @vlevieux Victor LEVIEUX
 - [ ] reqcontext
 - [ ] security
