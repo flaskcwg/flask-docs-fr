@@ -199,13 +199,13 @@ if you doesn't finish the translation in ten days.
 
 ### docs/deploying/
 
-- [ ] asgi
-- [ ] cgi
-- [ ] fastcgi
-- [ ] index
-- [ ] mod_wsgi
-- [ ] uwsgi
-- [ ] wsgi-standalone
+- [x] asgi (reserved) @Mindiell
+- [x] cgi (reserved) @Mindiell
+- [x] fastcgi (reserved) @Mindiell
+- [x] index (reserved) @Mindiell
+- [x] mod_wsgi (reserved) @Mindiell
+- [x] uwsgi (reserved) @Mindiell
+- [x] wsgi-standalone (reserved) @Mindiell
 
 
 ### docs/patterns/
