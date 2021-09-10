@@ -158,7 +158,7 @@ if you doesn't finish the translation in ten days.
 - [ ] blueprints
 - [ ] changes
 - [ ] cli
-- [ ] config
+- [x] config @vlevieux Victor LEVIEUX
 - [ ] contributing
 - [ ] debugging
 - [ ] design
