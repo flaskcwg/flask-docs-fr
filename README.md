@@ -152,7 +152,7 @@ if you doesn't finish the translation in ten days.
 ### docs/
 
 - [x] advanced_foreword (reserved) @vlevieux Victor LEVIEUX
-- [ ] appcontext
+- [x] appcontext @mohamedmehdigara Mehdi
 - [ ] async-await
 - [ ] becomingbig
 - [ ] blueprints
