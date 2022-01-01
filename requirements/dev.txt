@@ -10,8 +10,6 @@ appdirs==1.4.4
     # via virtualenv
 asgiref==3.3.4
     # via -r requirements/tests.in
-atomicwrites==1.4.0
-    # via pytest
 attrs==21.2.0
     # via pytest
 babel==2.9.1
@@ -30,12 +28,6 @@ click==8.0.1
     # via
     #   pip-tools
     #   sphinx-intl
-colorama==0.4.4
-    # via
-    #   click
-    #   pytest
-    #   sphinx
-    #   tox
 distlib==0.3.1
     # via virtualenv
 docutils==0.16
@@ -60,10 +52,10 @@ jinja2==3.0.1
     # via sphinx
 markupsafe==2.0.1
     # via jinja2
-mypy-extensions==0.4.3
-    # via mypy
 mypy==0.812
     # via -r requirements/typing.in
+mypy-extensions==0.4.3
+    # via mypy
 nodeenv==1.6.0
     # via pre-commit
 packaging==20.9
@@ -110,13 +102,7 @@ six==1.16.0
     #   virtualenv
 snowballstemmer==2.1.0
     # via sphinx
-sphinx-intl==2.0.1
-    # via -r requirements/docs.in
-sphinx-issues==1.2.0
-    # via -r requirements/docs.in
-sphinx-tabs==3.0.0
-    # via -r requirements/docs.in
-sphinx==4.0.2
+sphinx==4.3.2
     # via
     #   -r requirements/docs.in
     #   pallets-sphinx-themes
@@ -124,11 +110,17 @@ sphinx==4.0.2
     #   sphinx-issues
     #   sphinx-tabs
     #   sphinxcontrib-log-cabinet
+sphinx-intl==2.0.1
+    # via -r requirements/docs.in
+sphinx-issues==1.2.0
+    # via -r requirements/docs.in
+sphinx-tabs==3.0.0
+    # via -r requirements/docs.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
     # via sphinx
-sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-htmlhelp==2.0.0
     # via sphinx
 sphinxcontrib-jsmath==1.0.1
     # via sphinx
@@ -136,7 +128,7 @@ sphinxcontrib-log-cabinet==1.0.1
     # via -r requirements/docs.in
 sphinxcontrib-qthelp==1.0.3
     # via sphinx
-sphinxcontrib-serializinghtml==1.1.4
+sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 toml==0.10.2
     # via
