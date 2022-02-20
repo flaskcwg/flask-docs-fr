@@ -1,3 +1,5 @@
+[![Translation progress](https://jalkhov.github.io/docspro/badge/fr_progress.svg)](https://github.com/Jalkhov/docspro)
+
 # Flask Docs Translation
 
 
