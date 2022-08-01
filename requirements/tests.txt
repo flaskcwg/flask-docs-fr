@@ -8,7 +8,7 @@ asgiref==3.3.4
     # via -r requirements/tests.in
 attrs==21.2.0
     # via pytest
-blinker==1.4
+blinker==1.5
     # via -r requirements/tests.in
 greenlet==1.1.0
     # via -r requirements/tests.in
