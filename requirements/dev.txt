@@ -6,12 +6,8 @@
 #
 alabaster==0.7.12
     # via sphinx
-appdirs==1.4.4
-    # via virtualenv
 asgiref==3.3.4
     # via -r requirements/tests.in
-atomicwrites==1.4.0
-    # via pytest
 attrs==21.2.0
     # via pytest
 babel==2.9.1
@@ -30,19 +26,13 @@ click==8.0.1
     # via
     #   pip-tools
     #   sphinx-intl
-colorama==0.4.4
-    # via
-    #   click
-    #   pytest
-    #   sphinx
-    #   tox
-distlib==0.3.1
+distlib==0.3.6
     # via virtualenv
 docutils==0.16
     # via
     #   sphinx
     #   sphinx-tabs
-filelock==3.0.12
+filelock==3.9.0
     # via
     #   tox
     #   virtualenv
@@ -60,10 +50,10 @@ jinja2==3.0.1
     # via sphinx
 markupsafe==2.0.1
     # via jinja2
-mypy-extensions==0.4.3
-    # via mypy
 mypy==0.812
     # via -r requirements/typing.in
+mypy-extensions==0.4.3
+    # via mypy
 nodeenv==1.6.0
     # via pre-commit
 packaging==20.9
@@ -78,11 +68,13 @@ pep517==0.10.0
     # via pip-tools
 pip-tools==6.1.0
     # via -r requirements/dev.in
+platformdirs==3.0.0
+    # via virtualenv
 pluggy==0.13.1
     # via
     #   pytest
     #   tox
-pre-commit==2.12.1
+pre-commit==3.1.1
     # via -r requirements/dev.in
 py==1.10.0
     # via
@@ -105,17 +97,9 @@ pyyaml==5.4.1
 requests==2.25.1
     # via sphinx
 six==1.16.0
-    # via
-    #   tox
-    #   virtualenv
+    # via tox
 snowballstemmer==2.1.0
     # via sphinx
-sphinx-intl==2.0.1
-    # via -r requirements/docs.in
-sphinx-issues==1.2.0
-    # via -r requirements/docs.in
-sphinx-tabs==3.0.0
-    # via -r requirements/docs.in
 sphinx==4.0.2
     # via
     #   -r requirements/docs.in
@@ -124,6 +108,12 @@ sphinx==4.0.2
     #   sphinx-issues
     #   sphinx-tabs
     #   sphinxcontrib-log-cabinet
+sphinx-intl==2.0.1
+    # via -r requirements/docs.in
+sphinx-issues==1.2.0
+    # via -r requirements/docs.in
+sphinx-tabs==3.0.0
+    # via -r requirements/docs.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
@@ -141,7 +131,6 @@ sphinxcontrib-serializinghtml==1.1.4
 toml==0.10.2
     # via
     #   pep517
-    #   pre-commit
     #   pytest
     #   tox
 tox==3.23.1
@@ -152,7 +141,7 @@ typing-extensions==3.10.0.0
     # via mypy
 urllib3==1.26.4
     # via requests
-virtualenv==20.4.6
+virtualenv==20.20.0
     # via
     #   pre-commit
     #   tox
